@@ -3,3 +3,7 @@ app/bin/main/workshop06_code/*.class
 hello_logger.log.*
 app/hello_logger.log.*
 app/bin/test/workshop06_code/*.class
+hello_logger.log.0
+.gitignore
+sqlite/words.db
+
